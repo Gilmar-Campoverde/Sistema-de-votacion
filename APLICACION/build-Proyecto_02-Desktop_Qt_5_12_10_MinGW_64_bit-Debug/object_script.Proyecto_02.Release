@@ -1,0 +1,16 @@
+release/administrador.o
+release/certificado.o
+release/controlador.o
+release/main.o
+release/principal.o
+release/resultados.o
+release/votacion.o
+release/votante.o
+release/qrc_Recursos.o
+release/moc_administrador.o
+release/moc_certificado.o
+release/moc_controlador.o
+release/moc_principal.o
+release/moc_resultados.o
+release/moc_votacion.o
+release/moc_votante.o

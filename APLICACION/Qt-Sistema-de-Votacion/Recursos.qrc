@@ -1,0 +1,15 @@
+<RCC>
+    <qresource prefix="/imagenes">
+        <file>Recursos/arauz.jpeg</file>
+        <file>Recursos/Fotostock.jpg</file>
+        <file>Recursos/lasso.jpeg</file>
+        <file>Recursos/ecuador.png</file>
+        <file>Recursos/tarjeta-de-identificacion.png</file>
+        <file>Recursos/estadisticas.png</file>
+    </qresource>
+    <qresource prefix="/Traducciones">
+        <file>Proyecto_02_en_US.qm</file>
+        <file>Proyecto_02_es_EC.qm</file>
+        <file>Proyecto_02_qu_EC.qm</file>
+    </qresource>
+</RCC>
